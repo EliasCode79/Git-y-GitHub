@@ -9,3 +9,9 @@ body{
     width: 70%;
     margin: auto;
 }
+
+.cabecera {
+    background-color: rgb(88, 65, 110);
+    color: white;
+    height: 50px;
+}
