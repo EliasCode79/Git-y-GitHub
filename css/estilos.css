@@ -3,3 +3,9 @@ body{
     color: blue;
     text-align: center;
 }
+
+.post {
+    border: 1px solid black;
+    width: 70%;
+    margin: auto;
+}
