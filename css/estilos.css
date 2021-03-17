@@ -18,4 +18,6 @@ body{
 
 footer{
     background-color: rgb(88, 65, 110);
+    color:  white;
+    /*comentario para git commit --amend*/
 }
